@@ -13,6 +13,12 @@ echo "Angka acak yang dihasilkan: " . $randomNumber;
     sesuai kebutuhan. Kode ini menggunakan fungsi `rand()` bawaan PHP untuk menghasilkan angka
     acak dalam rentang tertentu. Angka tersebut ditampilkan ke layar dengan
     fungsi `echo`. Anda dapat mengganti rentang angka pada fungsi `rand()`
+    sesuai kebutuhan. Kode ini menggunakan fungsi `rand()` bawaan PHP untuk menghasilkan angka
+    acak dalam rentang tertentu. Angka tersebut ditampilkan ke layar dengan
+    fungsi `echo`. Anda dapat mengganti rentang angka pada fungsi `rand()`
+    sesuai kebutuhan. Kode ini menggunakan fungsi `rand()` bawaan PHP untuk menghasilkan angka
+    acak dalam rentang tertentu. Angka tersebut ditampilkan ke layar dengan
+    fungsi `echo`. Anda dapat mengganti rentang angka pada fungsi `rand()`
     sesuai kebutuhan.
 */
 ?>
